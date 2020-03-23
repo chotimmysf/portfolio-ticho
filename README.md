@@ -1,2 +1,3 @@
-My portfolio showcases individual coding projects as well as current and past work experience.
+This is a portfolio.
+
 # portfolio-ticho
