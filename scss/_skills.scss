@@ -1,5 +1,20 @@
-.skill {
+.skillcard {
   display: grid;
-  grid-template-columns: repeat(4, 6fr);
+  grid-template-columns: repeat(1, 3fr);
   grid-gap: 1rem;
+  background-color: $secondary-color;
+  border-radius: 10px;
+  margin: 1.5rem;
+  height: 36px;
+  width: auto;
+}
+
+.softskills .hardskills .hobbyskills {
+  color: $secondary-color;
+  font-size: 21px;
+}
+
+p {
+  text-align: left;
+  margin-top: 1rem;
 }
