@@ -26,7 +26,7 @@
 }
 
 .home__name--last {
-  color: #a177ff;
+  color: #d4af37;
   font-weight: 700;
 }
 
@@ -148,7 +148,7 @@
 }
 
 .nav .menu-nav__item.active > a {
-  color: #a177ff;
+  color: #d4af37;
 }
 
 .nav .menu-nav__link {
@@ -162,7 +162,7 @@
 }
 
 .nav .menu-nav__link:hover {
-  color: #a177ff;
+  color: #d4af37;
 }
 
 .menu-nav__item:nth-child(1) {
@@ -236,7 +236,7 @@
 .about .jobs__job {
   background: #414141;
   padding: 0.5rem;
-  border-bottom: 5px solid #a177ff;
+  border-bottom: 5px solid #d4af37;
 }
 
 .about .jobs__job h2,
@@ -270,7 +270,7 @@
   -ms-grid-columns: (1fr)[3];
       grid-template-columns: repeat(3, 1fr);
   grid-gap: 1rem;
-  background-color: #a177ff;
+  background-color: #d4af37;
   border-radius: 10px;
   margin: 1.5rem;
   height: 150px;
@@ -284,7 +284,7 @@
 }
 
 .softskills .hardskills .hobbyskills {
-  color: #a177ff;
+  color: #d4af37;
   font-size: 21px;
 }
 
@@ -379,7 +379,7 @@ p {
 
 .projects__item {
   position: relative;
-  border-bottom: 5px solid #a177ff;
+  border-bottom: 5px solid #d4af37;
   overflow: hidden;
   cursor: pointer;
 }
@@ -395,7 +395,7 @@ p {
   left: 0;
   height: 100%;
   width: 100%;
-  background: #a177ff;
+  background: #d4af37;
   opacity: 0;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
@@ -552,7 +552,7 @@ body {
   background: #272727;
   color: #fff;
   height: 100vh;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
   line-height: 1;
 }
 
@@ -568,7 +568,7 @@ a {
 }
 
 .text-secondary {
-  color: #a177ff;
+  color: #d4af37;
 }
 
 header {
@@ -596,7 +596,7 @@ main .social-icons a {
 }
 
 main .social-icons a:hover {
-  color: #a177ff;
+  color: #d4af37;
 }
 
 footer {
