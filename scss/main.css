@@ -248,78 +248,8 @@
   margin: 0.3rem 0;
 }
 
-.about .social-icons {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
-
-.about footer {
-  -webkit-transform: rotate(90deg) translate(-3rem, -5rem);
-          transform: rotate(90deg) translate(-3rem, -5rem);
-}
-
-.skillcard {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-grid-columns: (1fr)[3];
-      grid-template-columns: repeat(3, 1fr);
-  grid-gap: 1rem;
-  background-color: #d4af37;
-  border-radius: 10px;
-  margin: 1.5rem;
-  height: 150px;
-  width: auto;
-}
-
-.softskills {
-  -webkit-box-align: left;
-      -ms-flex-align: left;
-          align-items: left;
-}
-
-.softskills .hardskills .hobbyskills {
-  color: #d4af37;
-  font-size: 21px;
-}
-
-p {
-  text-align: left;
-  margin-top: 3rem;
-}
-
-.about {
-  padding-bottom: 2rem;
-}
-
-.about__bio-image {
-  height: 50vh;
-  width: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/background.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/background.jpg") center top;
-  background-size: cover;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
-}
-
-.about__bio-image p {
-  margin-bottom: 2rem;
+.about .jobs__job li {
+  margin: 0.5rem 0;
 }
 
 .about .social-icons {
