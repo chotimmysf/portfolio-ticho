@@ -244,7 +244,7 @@
   margin: 0.5rem 0;
 }
 
-.about .jobs__job h6 {
+.about .jobs__job h4 {
   margin: 0.3rem 0;
 }
 
@@ -401,7 +401,7 @@
   background-size: cover;
 }
 
-.contact h2 {
+.contact h1 {
   font-size: 3rem;
   margin-bottom: 2rem;
 }
